@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319665158259",
+    "firebase_url": "https://instalador-forca-de-vendas.firebaseio.com",
+    "project_id": "instalador-forca-de-vendas",
+    "storage_bucket": "instalador-forca-de-vendas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319665158259:android:adb0a9c73233ab2c8d5206",
+        "android_client_info": {
+          "package_name": "orasystems.com.br.instalador_forca_de_vendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319665158259-fht51do0451uf3idbc2i9koj6ve88tsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "orasystems.com.br.instalador_forca_de_vendas",
+            "certificate_hash": "72ef4e58da1ce2cc0722694c34f533be1a93e12f"
+          }
+        },
+        {
+          "client_id": "319665158259-ss232iror2htrngqmovdhck73m0i56rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKzJDCaS2y3YZQGqEVJIxsTUacQrlmfS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319665158259-ss232iror2htrngqmovdhck73m0i56rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
